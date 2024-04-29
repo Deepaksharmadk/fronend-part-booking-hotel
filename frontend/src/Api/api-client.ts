@@ -1,6 +1,6 @@
 import { RegisterFormData } from "../Page/Register";
 import { SignInFormData } from "../Page/SignIn";
-import { UserType } from "../Types/Type";
+import { HotelType } from "../Types/Type";
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "";
 
